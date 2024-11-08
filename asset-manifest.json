@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Netflix_Homepage-react.git/static/css/main.a6087b2c.css",
-    "main.js": "/Netflix_Homepage-react.git/static/js/main.ed06ff67.js",
-    "static/js/453.406fa622.chunk.js": "/Netflix_Homepage-react.git/static/js/453.406fa622.chunk.js",
-    "static/media/netflix_bg.jpg": "/Netflix_Homepage-react.git/static/media/netflix_bg.b25a426713c58f98bde3.jpg",
-    "index.html": "/Netflix_Homepage-react.git/index.html",
-    "main.a6087b2c.css.map": "/Netflix_Homepage-react.git/static/css/main.a6087b2c.css.map",
-    "main.ed06ff67.js.map": "/Netflix_Homepage-react.git/static/js/main.ed06ff67.js.map",
-    "453.406fa622.chunk.js.map": "/Netflix_Homepage-react.git/static/js/453.406fa622.chunk.js.map"
+    "main.css": "/Netflix_Homepage-react/static/css/main.ff16062f.css",
+    "main.js": "/Netflix_Homepage-react/static/js/main.06d331ce.js",
+    "static/js/453.406fa622.chunk.js": "/Netflix_Homepage-react/static/js/453.406fa622.chunk.js",
+    "static/media/netflix_bg.jpg": "/Netflix_Homepage-react/static/media/netflix_bg.b25a426713c58f98bde3.jpg",
+    "index.html": "/Netflix_Homepage-react/index.html",
+    "main.ff16062f.css.map": "/Netflix_Homepage-react/static/css/main.ff16062f.css.map",
+    "main.06d331ce.js.map": "/Netflix_Homepage-react/static/js/main.06d331ce.js.map",
+    "453.406fa622.chunk.js.map": "/Netflix_Homepage-react/static/js/453.406fa622.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6087b2c.css",
-    "static/js/main.ed06ff67.js"
+    "static/css/main.ff16062f.css",
+    "static/js/main.06d331ce.js"
   ]
 }
